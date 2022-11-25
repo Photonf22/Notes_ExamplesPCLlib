@@ -1,0 +1,3 @@
+/lidar/Notes_ExamplesPCLlib/DownSampling_PCD/build/CMakeFiles/voxel_grid.dir
+/lidar/Notes_ExamplesPCLlib/DownSampling_PCD/build/CMakeFiles/edit_cache.dir
+/lidar/Notes_ExamplesPCLlib/DownSampling_PCD/build/CMakeFiles/rebuild_cache.dir
